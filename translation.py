@@ -5,10 +5,13 @@ class Translation(object):
 
       START = """Hello {0}
 
-I am a converter clone of [Convert Ns Bot](https://telegram.dog/convert_Ns_bot) by {1}
+I am a TG Converter bot with permanent thumbnail support.
 
-I can convert file to video or video to file with custom thumbnail support.
-"""
+Press /settings to change my settings ⚙.
+
+For More Details check Help 📜
+
+Maintained By: [ᴍʜᴅ ᴍᴜꜰᴀᴢ 👨‍💻](https://t.me/mufaz123)
 
 
 #This will be appeared when anyone use help command
