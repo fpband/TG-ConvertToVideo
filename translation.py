@@ -10,6 +10,18 @@ I am a converter clone of [Convert Ns Bot](https://telegram.dog/convert_Ns_bot) 
 I can convert file to video or video to file with custom thumbnail support.
 """
 
+else:
+            first_name = update.effective_user.first_name
+            update.effective_message.reply_text(
+                PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
+
+                parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup(
+                    [[InlineKeyboardButton(text="👨‍💼 Master", url="t.me/MRK_YT"),  InlineKeyboardButton(text="Help 🤔", url="https://t.me/{}?start=help".format(bot.username))],
+                     [InlineKeyboardButton(text="🖥️ Tutorial Video🖥️", url="https://youtu.be/wKL90i3cjPw")],
+                     [InlineKeyboardButton(text="👥 Any Doubt", url="t.me/Mo_Tech_Group"), InlineKeyboardButton(text="MT Updates🤖", url="t.me/Mo_Tech_YT")],
+                     [InlineKeyboardButton(text="🎬 YT Channel", url="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"), InlineKeyboardButton(text="Repo ⛓️", url="https://github.com/MRK-YT/MT-Rose-Bot-Model")],
+                     [InlineKeyboardButton(text="➕ Add me to your group ➕", url="t.me/{}?startgroup=true".format(bot.username)) ]]))
+    else:
 
 #This will be appeared when anyone use help command
 
