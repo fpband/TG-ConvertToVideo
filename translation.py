@@ -27,7 +27,7 @@ Maintained By: [ᴍʜᴅ ᴍᴜꜰᴀᴢ 👨‍💻](https://t.me/mufaz123)
 
 4. Reply to file /converttovideo for converting into video.
 
-**SUPPORT GROUP:** [NS Bot Supporters](https://telegram.dog/Ns_Bot_supporters)
+**SUPPORT GROUP:** [BX Support](https://telegram.dog/BxSupport)
 """
 
 
@@ -38,13 +38,13 @@ Maintained By: [ᴍʜᴅ ᴍᴜꜰᴀᴢ 👨‍💻](https://t.me/mufaz123)
 
 **🧰 Framework:** Pyrogram
 
-**👨‍💻 Developer:** [Anonymous](https://t.me/Ns_AnoNymouS)
+**👨‍💻 Developer:** [ᴍʜᴅ ᴍᴜꜰᴀᴢ](https://t.me/Mufaz123)
 
-**📮 Channel:** [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+**📮 Channel:** [BX Bot Updates](https://t.me/Bx_Botz)
 
-**👥 Group:** [NS BOT SUPPOTERS](https://t.me/Ns_Bot_supporters)
+**👥 Group:** [BX Bot Support](https://t.me/BxSupport)
 
-**💻 Source Code:**[Press Me](https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT)
+**💻 Source Code:**[Press Me](https://github.com/Mufaz706/TG-CONVERT-BOT)
 
 """
 
